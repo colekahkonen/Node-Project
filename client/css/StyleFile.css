@@ -1,0 +1,16 @@
+#chat-text {
+  width: 500px;
+  height: 100px;
+  overflow-y: scroll;
+}
+
+#chat-input {
+  width: 500px;
+}
+canvas {
+    /* width:500px;
+    height:500px; */
+
+    /* height: 100%; */
+    background-image: url('/client/img/map.png');
+}
